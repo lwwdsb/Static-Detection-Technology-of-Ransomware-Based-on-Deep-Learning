@@ -1,0 +1,1 @@
+# Static-Detection-Technology-of-Ransomware-Based-on-Deep-Learning
